@@ -1,0 +1,72 @@
+
+@media screen and (max-width: 578px) {
+    #custCarousel .carousel-indicators li img{
+        margin-top: -9px;
+        background: red;
+        display: block;
+        opacity: 0.5;
+        padding: 8px 25px!important;
+
+    }
+    .admission_content_co {
+        border: none!important;
+        background-color: transparent!important;
+        border-bottom: 1px solid lightgrey!important;
+        padding: 5px 10px!important;
+    }
+    .admission_content_co .btn-hero-sm{
+        padding: 1px!important;
+    }
+    .ad_pr_logo {
+        padding: 1px!important;
+        margin-left: -10px;
+        width: 40px!important;
+        border-radius: 5px;
+        background: #fff;
+         margin-top: 0;
+        position: absolute;
+        /* margin-bottom: -13px; */
+        height: 40px!important;
+        border: 1px solid #607D8B;
+    }
+    .name_location {
+        margin-left: -10px;
+        margin-bottom: -14px;
+        margin-top: 21px!important;
+    }
+    .d_short_ad {
+        text-align: start!important;
+        margin-top: 25px!important;
+    }
+    .loved_and_review {
+        margin-top: -235px!important;
+        text-align: right!important;
+    }
+    .d_short_ad button {
+        padding: 2px 7px!important;
+        margin: 0 1px;
+    }
+    ul#categories_title {
+        padding-left: 0!important;
+    }
+    .admission_content_listing {
+        margin-bottom: 10px;
+    }
+    .admission_content_listing .btn {
+        color: #007075;
+        background: #fff;
+        margin-bottom: 10px;
+        text-transform: capitalize;
+        padding: 1px 8px;
+    }
+    .admission_content_co h2{
+        margin-bottom: 0!important;
+    }
+    .sub_tag-title {
+        margin-bottom: -15px;
+        margin-top: 30px;
+    }
+    .Subject_tags {
+        padding-bottom: 30px;
+    }
+}

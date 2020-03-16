@@ -1,0 +1,1724 @@
+
+
+    /*===================================header  Start=========================*/
+
+    body{
+        background-color: #eaeaea!important;
+    }
+    .block-header-default {
+        background-color: #f1f1f1;
+    }
+    body img{
+        width: 100%;
+    }
+    li#breaking i {
+        font-weight: bold;
+        color: #ff4500;
+    }
+    ul.top-scroll-ne a {
+        font-size: 14px;
+    }
+    li#breaking a {
+        text-transform: uppercase;
+        font-size: 15px;
+        font-weight: bold;
+        color: #000;
+    }
+    ul.top-scroll-ne {
+        margin-left: -100px;
+    }
+    .mobile_d_no .btn {
+        font-size: 15px;
+        padding: 5px;
+    }
+
+    .content-header {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+        -ms-flex-align: center;
+        align-items: center;
+        margin: 0 auto;
+        height: 3.375rem;
+    }
+    .affix {
+        position: fixed!important;
+        left: 0;
+        right: 0;
+        width: 100%;
+        top: 0;
+        z-index: 1024;
+        box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+        background: #243a50f2;
+        -webkit-animation-duration: 1s;
+        animation-duration: 1s;
+        -webkit-animation-fill-mode: both;
+        animation-fill-mode: both;
+        -webkit-animation-name: fadeInDown;
+        animation-name: fadeInDown;
+    }
+
+    .affix + .container-fluid {
+        padding-top: 70px;
+    }
+    .bg-white.rounded.push.affix{
+        padding: 0px 60px;
+        position: fixed!important;
+        left: 0;
+        right: 0;
+        width: 100%;
+        top: 54px;
+        z-index: 1024;
+        box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+        background: #243a50f2;
+        -webkit-animation-duration: 1s;
+        animation-duration: 1s;
+        -webkit-animation-fill-mode: both;
+        animation-fill-mode: both;
+        -webkit-animation-name: fadeInDown;
+        animation-name: fadeInDown;
+    }
+
+    .affix + .container-fluid {
+        padding-top: 70px;
+    }
+.admission_nepal_top img{
+    max-width: 100%;
+}
+.admission_nepal_top{
+}
+.taq_top_manage{
+    background: #fff;
+    margin-left: -85px;
+}
+.trending_ad_nepal a {
+    color: rgba(0, 0, 0, .8);
+}
+    a.trending_title {
+        background: orangered;
+        padding: 10px;
+        color: #fff!important;
+    }
+    #page-container.page-header-dark #page-header {
+        color: #d6d6d6;
+        background-color: #007075!important;
+    }
+a.my_account {
+    color: #fff;
+    /* background: orange; */
+    /* padding: 0px 20px; */
+    text-transform: uppercase;
+    font-weight: bold;
+}
+    .college_search_fil a {
+        padding: 10px;
+        color: #0b1009;
+        font-weight: inherit;
+        text-transform: uppercase;
+        font-size: 13px;
+    }
+    .college_search_fil a:hover {
+        background: #007075;
+        color: #fff;
+        padding: 7px 10px;
+        border-radius: 3px;
+    }
+    .college_search_fil a.active {
+        background: #007075;
+        color: #fff;
+        padding: 7px 10px;
+        border-radius: 3px;
+
+    }
+    a.add_ad_listing {
+        border-radius: 4px;
+        color: #fff;
+        background: #fe6927;
+        padding: 4px 8px;
+        text-transform: uppercase;
+        font-weight: 800;
+        font-size: 14px;
+    }
+div#login_reg_ad_ne {
+    margin-top: 0;
+    box-shadow: none;
+}
+div#login_reg_ad_ne {
+    border-radius: unset;
+    color: #fff;
+    background: #007075;
+    margin-top: 0;
+    box-shadow: none;
+}
+div#login_reg_ad_ne a {
+    color: #fff;
+}
+a.add_ad_listing:hover {
+    color: #fff;
+}
+
+div#login_reg_ad_ne a:hover {
+    color: orange;
+}
+.page-header-dark #page-header .btn-dual, .sidebar-dark #sidebar .btn-dual{
+    text-transform: uppercase;
+}
+    /*@media only screen and (max-width: 2473px) {*/
+        /*.ad_banner_sl {*/
+            /*margin-top: -65px;*/
+        /*}*/
+
+        /*.sp-bottom-thumbnails.sp-has-pointer {*/
+            /*margin-top: -80px;*/
+        /*}*/
+    /*}*/
+
+@media screen and (max-width: 578px) {
+    .box_image{
+        height: auto!important;
+    }
+    .box_image_responsive{
+        height: auto!important;
+    }
+    .mobile_d_no{
+        display: none!important;
+    }
+    .short_adn a{
+        display: none;
+    }
+    .admission_nepal_top{
+        display: none!important;
+    }
+    ul#categories_title {
+        padding-left: 1px;
+    }
+
+    #page-container.page-header-glass.page-header-fixed #page-header {
+        background: #007075;
+        top: 0!important;
+        transition: background-color .2s linear;
+        will-change: background-color;
+        box-shadow: inset 0 -1px 0 0 rgba(255, 255, 255, 0.2);
+        -webkit-border-radius: 0;
+    }
+    .trending_ad_nepal {
+        display: none!important;
+    }
+    .ad_nep_footer_content {
+        padding: -10px;
+        margin: 0 -20px;
+    }
+    .ad_nep_footer_content.partners_d_none {
+        display: none;
+    }
+    .sub_ad-nepal{
+        display: none;
+    }
+    .help_line{
+        border-right: none!important;
+    }
+    .Follow_Us{
+        border-left: none!important;
+    }
+    .event-img img {
+        display: none;
+    }
+    .event-img, .coming-event {
+         margin-top: 0;
+    }
+}
+div#short_by_adn {
+    padding:5px 5px 5px 20px;
+    background: #fff;
+}
+    button#city_select {
+        height: 30px;
+        text-transform: uppercase;
+        padding-right: 20px;
+        border-right: 2px solid #00559a;
+    }
+.btn-hero-info{
+    text-transform: capitalize;
+}
+.top_navigation_ad_n li {
+    margin-top: -10px;
+    float: left;
+    list-style: none;
+    padding: 0 5px;
+}
+.top_navigation_ad_n {
+    background: #007075;
+    margin: -13px;
+}
+    .d_short_ad button{
+        margin: 0 1px;
+    }
+.top_navigation_ad_n i {
+    color: #fff;
+}
+    .ad_nepal_logo_a {
+        margin-top: -19px;
+    }
+/*===================================header  Edn=========================*/
+/*Slider*/
+    .search-container {
+        background: transparent;
+        margin-top: -391px;
+        display: inline-block;
+        width: 100%;
+        position: static;
+    }
+    .search-container .block {
+        box-shadow: none!important;
+        background: transparent;
+    }
+    .search-container li.nav-item {
+        background: white;
+        color: #078294;
+    }
+    .search-container a.nav-link {
+        color: #078294;
+    }
+    .search-container a.nav-link.active {
+        color: white;
+        text-transform: uppercase;
+        background: #078294;
+    }
+    .search-container .table {
+        margin-top: -33px;
+        width: 100%;
+        color: #495057;
+        background-color: #fff;
+        margin-bottom: -10px;
+        margin-left: -36px;
+    }
+    .search-container .nav-tabs-block {
+        background-color: #fafafa00;
+    }
+    .search-container .table-striped tbody tr:nth-of-type(odd) {
+        background-color: #f9f9f900;
+    }
+    .search-container .nav-tabs-block .nav-link {
+         padding-top: 5px;
+        padding-bottom: 5px;
+        border-color: transparent;
+        border-radius: 0;
+    }
+    .search-container .form-control {
+        border-color: transparent;
+    }
+    input#address_college {
+        padding-left: 18px;
+        border-left: 1px solid #ddd;
+    }
+    .search-container .table td, .table th {
+        padding: .75rem 0;
+        vertical-align: top;
+        border-top: 1px solid #e6ebf4;
+    }
+    button#ad_ne_summit {
+        margin-bottom: -10px;
+        background: orangered;
+        color: #fff;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .search-container .form-control:focus {
+        color: #495057;
+        background-color: #fff;
+        border-color: transparent;
+        outline: 0;
+        box-shadow: 0 0 0 0.2rem rgba(6, 101, 208, 0);
+    }
+/*===================================Quick link Start=========================*/
+.ad_nepal_cat_ab_all {
+    text-align: center;
+    background: #007075;
+    padding: 40px 4px;
+}
+.ad_nepal_cat_ab_all:hover {
+    text-align: center;
+    background: #007ea3;
+    padding: 40px 4px;
+}.ad_nepal_cat_ab_all2 {
+     text-align: center;
+     background: #ee5438;
+     padding: 40px 4px;
+ }
+    .ad_nepal_cat_ab_all2:hover {
+        text-align: center;
+        background: #5b4e6e;
+        padding: 40px 4px;
+    }
+    .ad_nepal_cat_ab_all3:hover {
+        text-align: center;
+        background: #007075;
+        padding: 40px 4px;
+    }
+    .ad_nepal_cat_ab_all4:hover {
+        text-align: center;
+        background: #007075;
+        padding: 40px 4px;
+    }
+.ad_nepal_cat_ab_all3 {
+    text-align: center;
+    background: #007ea3;
+    padding: 40px 4px;
+}
+.ad_nepal_cat_ab_all4 {
+    text-align: center;
+    background: #5b4e6e;
+    padding: 40px 4px;
+}
+.ad_nepal_cat_ab h1 {
+    color: #fff;
+}
+.ad_nepal_cat_ab h2 {
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 20px;
+}
+.example_f {
+    border-radius: 4px;
+    /*background: linear-gradient(to right, #67b26b, #4ca2cb) !important;*/
+    background: white;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 12px;
+    padding: 7px 16px;
+    transition: all 0.4s;
+    cursor: pointer;
+    margin: 5px;
+    font-weight: bold;
+}
+.example_f span {
+    padding-left: 8px;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.4s;
+}
+.quick_links_an_cat b {
+    font-size: 16px;
+}
+.quick_links_an_cat{
+    color: #fff;
+
+}
+.quick_links_an_cat p{
+    padding: 5px;
+}
+.example_f span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+.example_f:hover span {
+    padding-right: 20px;
+}
+.example_f:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+.button_cont {
+    padding: 10px 0;
+}
+.button_cont a {
+    color: black;
+}
+.quick_links_an_cat a{
+    padding: 5px;
+    color: #fff;
+}
+i.fa.fa-arrow-right {
+    color: white;
+    margin-left: -17px;
+    background: #ec3f21;
+    padding: 10px;
+}
+.fables-second-border-color {
+    border-color: #E54D42 !important;
+}
+.fables-team-data-hover {
+    overflow: hidden;
+}
+.fables-team-block {
+    text-align: center;
+    border-width: 0;
+    border-radius: 0;
+}
+.ad_nepal_cat_ab {
+    margin-top: 172px;
+    padding: 100px 0 50px 0;
+}
+/*===================================Quick link End=========================*/
+/*===================================Footer Start=========================*/
+.footer_ad_n {
+    background: #202020;
+}
+.ad_nep_footer_content p {
+    font-weight: 600;
+    font-size: 15px;
+    text-transform: uppercase;
+    margin-bottom: 13px!important;
+}
+.ad_nep_footer{
+    background: #202020;
+}
+.f_title h4 {
+    padding: 0 36px;
+    /* text-align: -webkit-center; */
+}
+
+.f_title li {
+    list-style: none;
+}
+ul.footer_an_ne li {
+    margin-bottom: 10px;
+    list-style: none;
+    font-size: 15px;
+    font-weight: 500;
+}
+ul.footer_an_ne a:hover {
+    color: #8b226a;
+}
+p.an_title{
+    color: #007075;
+    font-weight: bolder;
+    text-align: left;
+    padding: 0 0 10px 0;
+}
+p.an_title {
+    margin-bottom: 1px;
+    padding: 0 36px;
+}
+a.footer_link_ln {
+    font-size: 14px;
+    color: #fff;
+}
+
+#copyright {
+    background-color: #007075;
+    border-top: 1px solid #393939;
+    padding: 20px;
+    color: #fff;
+}
+/*===================================Footer Edn=========================*/
+
+/*student */
+.user_st_adn {
+    margin-top: 64px;
+}
+
+.admission_nepal_top{
+    background: #f1f1f2;
+    /*padding: 10px 0;*/
+    position: relative;
+    z-index: 1024;
+}
+p.mb-2.d-none.d-sm-block {
+    padding: 5px 0!important;
+}
+a.block.block-rounded.block-link-pop.text-center.d-flex.align-items-center {
+    border: 1px solid #03A9F4;
+}
+.bg-blue {
+    color: #fff;
+    background-color: #03a9f4!important;
+}
+.bg-primary-op_user_p {
+    background-color: rgb(0, 112, 117)!important;
+}
+div#profile_de p {
+    color: #fff!important;
+}
+    section#profile_event {
+        background: #fff;
+    }
+    .section#profile_event .profile-events {
+        padding: 12px;
+        background: #fff;
+        -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        transition: all 0.3s ease 0s;
+        margin-bottom: 30px;
+    }
+div#profile_de i {
+    color: #fff!important;
+}
+    a.ad_nepal_color {
+        padding-right: 10px;
+        color: #008489;
+    }
+    .co_adnepal_tap {
+        padding-top: 3px;
+    }
+    .co_adnepal_tap a{
+        padding: 0 5px;
+        font-weight: 600;
+        font-size: 15px;
+        color: #008489;
+    }
+
+    a#courses_fees {
+        padding-left: 0;
+    }
+    span.admission_pro_location {
+        font-size: 13px;
+        font-weight: 500;
+    }
+    span#ad_nepal_color{
+        color: white;
+    }
+/*Footer start*/
+.unique {
+    width: 18%;
+    float: left;
+    margin: 0 1%;
+    padding-bottom: 20px;
+}
+ul.menu li {
+    list-style: none;
+}
+.admission-linkk .unique .head-title {
+    color: #007075;
+    font-weight: bolder;
+    text-align: left;
+    padding: 0 0 10px 0;
+}
+ul.menu a {
+    color: #fff;
+}
+section.footer-Content {
+    background-color: #202020;
+    padding-top: 45px;
+    color: #fff;
+    margin-top: -25px;
+}
+/*Footer end*/
+    /*Listing page*/
+    .block-header.orange {
+        background: #ff7900!important;
+        color: #fff;
+    }
+    div#like_share_profile iframe{
+        padding-left: 25%;
+        height: 40px;
+    }
+    a#get_free_consulting {
+        border-radius: 4px;
+        text-align: center;
+        font-size: 14px;
+        color: #fff;
+        background: #007075;
+        padding: 9px 30px;
+        font-weight: bold;
+    }
+    div#get_free_consulting_button{
+        padding-bottom: 35px;
+    }
+    .admission_content_listing {
+
+    }
+    .adn_facilities a {
+        color: black;
+        padding-right: 13px;
+    }
+    .admission_content_co h2 {
+        margin-bottom: 4px;
+        font-weight: 700;
+        font-size: 20px;
+    }
+    h3.ad_courses {
+        color: #007075;
+        font-size: 15px;
+        font-weight: 600;
+        margin-bottom: 13px;
+        padding-top: 8px;
+    }
+    .admission_content_co {
+        background-color: #e4d84421;
+        border: 1px solid lightgrey;
+        padding: 5px 15px;
+    }
+    .ad_nepal_button {
+        padding: 5px 15px;
+    }
+    p.adn_duration {
+        line-height: 1;
+        margin-top: -20px;
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .col_ad_ne a{
+        margin-bottom: 1px!important;
+    }
+    /*.col_ad_ne .badge-primary {*/
+        /*border: 2px solid;*/
+        /*color: #F44336!important;*/
+        /*background-color: #fff!important;*/
+        /*border-radius: 5px;*/
+    /*}*/
+    span.text-white.font-w600.mr-1.text_right_ad {
+        float: right!important;
+    }
+    #ad_nepal_loved i{
+        color: #f13a00;
+    }
+    #ad_nepal_icon i{
+        font-size: 15px;
+    }
+    #short_by_adn  .btn-link{
+        font-size: 16px;
+    }
+    .short_adn a{
+        float: left;
+        padding: 0 10px;
+    }
+    span#bac_white {
+        margin-top: -64px!important;
+        border: 1px solid #05e40e;
+        color: #05e40e;
+        background-color: transparent!important;
+        border-radius: 5px;
+        margin-left: -2px;
+        /* position: absolute; */
+        /* background: #fff; */
+    }
+    span#bac_white:hover {
+        color: red;
+        border: 1px solid red;
+        background: white!important;
+    }
+    p.featured_veryfy {
+        margin-left: -10px;
+    }
+    p.featured_unveryfy{
+        margin-left: -10px;
+    }
+    span#ad_nepal_loved {
+        border: 1px solid #fff;
+        color: red;
+        background-color: transparent;
+    }
+    div#list_feature {
+        margin-top: -14px;
+    }
+    p.rating_rank {
+        margin-left: -10px;
+    }
+    span#ad_nepal_loved:hover {
+        border: 1px solid #fff;
+        color: red;
+        background-color: white;
+    }
+    /*Listing page end*/
+    /*profile page*/
+    .admi_profile_name_logo {
+        margin-bottom: -73px;
+        margin-top: 73px;
+    }
+    .admi_profile_name_logo h2 {
+        margin-bottom: 0;
+        color: white;
+        font-weight: bold;
+        font-size: 21px;
+    }
+    p.profile_page_location {
+        padding-left: 5px;
+        margin-bottom: 0;
+    }
+    .loved_and_review {
+        margin-top: -150px;
+        text-align: right;
+    }
+    button#ad_nepal_loved_co_pr {
+        background: transparent;
+        margin-right: 7px;
+        /* border-radius: 50%; */
+        border: 2px solid #fff;
+    }
+    button#ad_nepal_loved_co_pr:hover {
+        background: white!important;
+        color: red!important;
+        margin-right: 7px;
+        /* border-radius: 50%; */
+        border: 2px solid #fff;
+    }
+    button#ad_nepal_loved_co_pr i:hover {
+        color: red!important;
+    }
+    button#dropdown-blog-story {
+        border: 2px solid #fff;
+        background: transparent;
+        color: #fff;
+    }
+    span.pro_span{
+        font-size: small;
+    }
+    .pro_button .btn {
+        padding: 0 5px;
+        font-size: 12px;
+    }
+    .profile-title1 h4 {
+        font-size: 15px;
+        line-height: 0;
+    }
+    .profile-title1 p {
+        line-height: 0;
+    }
+    div#courses_list {
+        border-bottom: 1px solid #e6e8ea;
+    }
+    div#courses_list .table td, .table th {
+        padding: .75rem;
+        vertical-align: top;
+        border-top: 1px solid #e6ebf4;
+    }
+    .overall_review .rating_content span {
+        font-weight: bolder;
+        font-size: 40px;
+        color: #007075;
+    }
+    .rating_content li {
+        list-style: none;
+    }
+    .overall_review .rating_content {
+        margin: 10px 0;
+    }
+    .rating_content h4 {
+        margin-bottom: 1px;
+    }
+    .d_short_ad{
+        text-align: end;
+        margin-top: 60px;
+    }
+    .block-header.block-header-default img {
+        width: 100%;
+    }
+    .ad_nepal_college_map p {
+        border-bottom: 1px solid #ddd;
+        margin-bottom: 4px;
+        color: #007075;
+    }
+    .name_location {
+        margin-left: -10px;
+        margin-bottom: -14px;
+        margin-top: 58px;
+    }
+    .ad_pr_logo {
+        padding: 20px;
+        margin-left: -10px;
+        width: 170px;
+        border-radius: 5px;
+        background: #fff;
+        margin-top: 25px;
+        position: absolute;
+        margin-bottom: -13px;
+        height: 150px;
+        border: 2px solid #607D8B;
+    }
+
+    /*profile page end*/
+/*events*/
+    .event-image img {
+        /*margin-top: -95px;*/
+        width: 100px;
+        height: 100px;
+        overflow: hidden;
+        float: right;
+    }
+    button#ad_ne_summit_event {
+        margin-bottom: -10px;
+        background: orangered;
+        color: #fff;
+    }
+    .events_d_t {
+        display: inline-block;
+    }
+    h2.events_date_day {
+        padding: 7px 30px;
+        float: left;
+        background: #fe6927;
+        font-size: 25px;
+        font-weight: bold;
+        color: #fff;
+    }
+    h2.events_date_day2 {
+        padding: 7px 30px;
+        float: left;
+        background: white;
+        font-size: 25px;
+        font-weight: bold;
+        color: #007075;
+    }
+    .ad_event_title {
+        padding: 30px 0;
+        color: #fff;
+        text-align: center;
+        overflow: hidden;
+        height: 270px;
+        width: 100%;
+        background-color: #007075;
+    }
+    .ad_event_date_time {
+        padding: 30px 0;
+        color: #fff;
+        text-align: center;
+        overflow: hidden;
+        height: 270px;
+        width: 100%;
+        background-color: orangered;
+    }
+    h2.event_title {
+        font-size: 22px;
+        font-weight: 700;
+        color: #fff;
+    }
+    .events_image{
+        overflow: hidden;
+        width: 100%;
+        /* max-width: 100%; */
+        height: 270px;
+    }
+    .events_image_div {
+        margin-left: -31px;
+        margin-right: -30px;
+    }
+    ul.events_lo_view li {
+        list-style: none;
+        float: left;
+        padding: 10px;
+    }
+    ul.events_lo_view i {
+        color: orangered;
+    }
+/*events end*/
+
+    /*Login Modal Start*/
+    #feature_Events  .block-content.block-content-full {
+        padding-bottom: 15px !important;
+    }
+    .block-content.block-content-full {
+        padding-bottom: 0 !important;
+    }
+    .top_interview .block-content.block-content-full {
+        padding-bottom: 1.25rem!important;
+    }
+    /*Login Modal End*/
+    .top_interview {
+        background: lightgray;
+    }
+/*Footer*/
+    div#copy_right{
+        text-align: center;
+        background-color: #007075;
+        color: #fff;
+    }
+    div#footer_tag{
+        text-align: center;
+        background-color: #101010;
+        color: #fff;
+    }
+    div#footer_tag p {
+        color: #009688;
+        padding-top: 20px;
+    }
+    div#footer_tag a {
+        color: #fff;
+    }
+    div#copy_right p {
+        padding-top: 20px;
+    }
+    div#copy_right a {
+        color: lightskyblue;
+    }
+    .bottom-social-icons.social-icon {
+        float: left;
+    }
+/*footer end*/
+    /*Banner Ads*/
+    .long_banner{
+        margin-bottom: 25px;
+        padding: 10px;
+        background: #202020;
+    }
+
+    .college_long_banner{
+        /*margin-bottom: 20px;*/
+        padding-top: 10px;
+        /*background: #202020;*/
+    }
+
+
+    .long_banner_img img {
+        padding: 10px 0;
+        text-align: center;
+        max-width: 100%;
+    }
+    .feature_ad_ne_ad {
+        background: #202020;
+    }
+    .feature_ad_ne_ad img {
+        border-radius: 5px;
+        overflow: hidden;
+        height: 180px;
+        width: 100%;
+        background: #f4f6fa;
+        padding: 2px;
+    }
+
+    /*Banner Ads end*/
+    /*Subscribe*/
+    .sub_ad-nepal {
+        border-radius: 10px;
+        margin-bottom: -34px;
+        /* margin-top: 10px; */
+        padding-top: 20px;
+        background: #007075;
+    }
+    .sub_ad-nepal p {
+        margin-top: 5px;
+        font-weight: bold;
+        text-align: center;
+        color: #fff;
+    }
+    .help_line_con {
+        text-align: center;
+        margin-bottom: 20px;
+        border-bottom: 1px solid;
+        padding-top: 40px;
+    }
+    .help_line {
+        border-right: 2px solid;
+    }
+    .Follow_Us {
+        border-left: 2px solid;
+    }
+    .help_line_con h3 {
+        font-size: 20px;
+        color: #009688;
+    }
+    .contact_hel small {
+        color: #fff;
+    }
+    div#copy_right p {
+        margin-bottom: 10px;
+    }
+    .bottom-social-icons.social-icon i {
+        font-size: 21px;
+        background: #fff;
+        padding: 5px;
+        border-radius: 50%;
+    }
+    /*Subscribe end*/
+
+    /*Upcoming events*/
+    .section-title {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .section-title h2 {
+        font-size: 34px;
+        text-transform: capitalize;
+        position: relative;
+        margin-bottom: 10px;
+    }
+    .section-title p {
+        font-size: 14px;
+        color: #555;
+        font-weight: 400;
+        line-height: 22px;
+    }
+    .upcoing_events .single-event {
+        background: #fff;
+        position: relative;
+        margin-left: 0;
+        padding: 30px 20px 30px 60px;
+        margin-bottom: 30px;
+        -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+        -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        transition: all 0.3s ease 0s;
+    }
+    .coming-event {
+        padding-left: 35px;
+    }
+    .event-img, .coming-event {
+        /*margin-top: 30px;*/
+    }
+    .coming-event p {
+        margin-bottom: 0!important;
+    }
+    .upcoing_events .event-title {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .upcoing_events .single-event:hover .event-date {
+        border-radius: 100%;
+    }
+    .upcoing_events .single-event:hover .event-date p {
+        font-size: 25px;
+    }
+    .upcoing_events .event-date p {
+        color: #fff;
+        line-height: 24px;
+        font-size: 30px;
+        font-weight: 700;
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        transition: all 0.3s ease 0s;
+    }
+    .upcoing_events .event-date p span {
+        display: block;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .upcoing_events .event-date {
+        background: #05c46b;
+    }
+    .upcoing_events .event-date p {
+        color: #fff;
+        font-size: 30px;
+        font-weight: 700;
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        transition: all 0.3s ease 0s;
+    }
+    .upcoing_events .event-date {
+        position: absolute;
+        left: -35px;
+        width: 70px;
+        text-align: center;
+        top: 50%;
+        margin-top: -35px;
+        padding: 10px 0;
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        transition: all 0.3s ease 0s;
+    }
+    .upcoing_events .entry-date-time {
+        color: #555;
+        margin-top: 5px;
+        display: block;
+    }
+    .upcoing_events {
+        width: 100%;
+        height: 450px;
+        overflow: hidden;
+        background-position: 0 50%;
+        background-size: cover;
+    }
+    .event-img img {
+        margin-top: -40px;
+        margin-bottom: -60px;
+    }
+    /*Upcoming events end*/
+    .c_admission_nepal img{
+        height: 90px;
+        width: 90px;
+        padding: 5px;
+        background: #fff;
+        margin: 14px;
+        border: 2px solid #ddd;
+    }
+    .c_admission_nepal{
+        margin: 4px;
+    }
+  .client-partners .slick-slider.slick-nav-black .slick-next, .slick-slider.slick-nav-black .slick-prev {
+        margin: 0 -50px!important;
+        background-color: rgba(0,0,0,.25);
+    }
+    .client-partners{
+        padding-bottom: 20px;
+    }
+    /*Feature college*/
+
+    /*Feature college end */
+    .courses {
+        background: #f8f8f8;
+    }
+    .courses .course-slider {
+        margin-top: 30px;
+    }
+    .courses .single-course {
+        padding: 12px;
+        background: #fff;
+        -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        transition: all 0.3s ease 0s;
+        margin-top: 30px;
+    }
+    .courses .single-course:hover{
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.30);
+    }
+    .courses .course-head{
+        position:relative;
+        overflow:hidden;
+    }
+    .courses .course-head::before {
+        opacity: 0;
+        visibility: hidden;
+        z-index: 5;
+    }
+    .courses .course-head img{
+        height:100%;
+        width:100%;
+    }
+    .overlay::before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0.8;
+        background: #20232E;
+        content: "";
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        transition: all 0.3s ease 0s;
+    }
+    .courses .course-head:hover img{
+        -webkit-transform:scale(1.3);
+        -moz-transform:scale(1.3);
+        transform:scale(1.3);
+    }
+    .courses .course-head:hover:before{
+        opacity:0.8;
+        visibility:visible;
+    }
+    .courses .course-head a {
+        position: absolute;
+        top: 50%;
+        margin: -25px 0 0 -25px;
+        z-index: 10;
+        left: 50%;
+        font-weight: 500;
+        text-transform: capitalize;
+        margin-left: -58px;
+        padding: 5px 22px;
+        opacity:0;
+        -webkit-transform:scale(0);
+        -moz-transform:scale(0);
+        transform:scale(0);
+        border-radius: 12px;
+    }
+    .courses .course-body {
+        margin: 15px;
+        margin-top: 0px;
+    }
+    .courses .name-price {
+        padding: 0;
+        width: 100%;
+        position: relative;
+        z-index: 333;
+        margin-top: -33.5px;
+    }
+    .courses .name-price .teacher-info {
+        display: inline-block;
+    }
+    .courses .teacher-info img {
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+        border-radius: 100%;
+        display: inline-block;
+        border: 4px solid #fff;
+        float: left;
+        -webkit-box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.15);
+        box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.15);
+    }
+    .courses .single-course .teacher-info:hover img{
+        -webkit-transform:rotate(360deg);
+        -moz-transform:rotate(360deg);
+        transform:rotate(360deg);
+    }
+    .courses .teacher-info .title {
+        font-weight: 500;
+        padding: 10px;
+        color: #fff;
+        border-radius: 30px;
+        position: absolute;
+        left: 0;
+        bottom: -43px;
+        z-index: 33;
+        font-size: 13px;
+        -webkit-transform:translateX(-30px);
+        -moz-transform:translateX(-30px);
+        transform:translateX(-30px);
+        opacity:0;
+        visibility:hidden;
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        transition: all 0.3s ease 0s;
+    }
+    .courses .teacher-info:hover .title{
+        transform:translateX(0px);
+        opacity:1;
+        visibility:visible;
+    }
+    .courses .teacher-info .title::before {
+        content: "";
+        border-bottom: 12px solid;
+        border-right: 10px solid transparent;
+        border-left: 10px solid transparent;
+        position: absolute;
+        top: -10px;
+    }
+    /* Price */
+    .courses .price {
+        color: #fff;
+        padding: 5px 25px;
+        font-weight: 700;
+        position: relative;
+        margin-top: 12px;
+        float: right;
+        border-radius: 50px;
+        right: 0;
+    }
+    div#feature_co_admission {
+        width: 100%;
+        height: 200px;
+    }
+    .courses .price::before {
+        position: absolute;
+        left: 0;
+        top: 0;
+        content: "";
+        border-left: 15px solid #fff;
+        border-bottom: 15px solid transparent;
+        border-top: 15px solid transparent;
+        display: none;
+    }
+    .courses .course-body .c-title {
+        font-size: 14px;
+        text-align: center;
+        margin: 5px 0 15px;
+    }
+    .courses .course-body .c-title a {
+        color: #252525;
+        font-weight: 700;
+    }
+    .courses .course-body p {
+        color: #666;
+    }
+    ul.rattings {
+        padding-inline-start: 0;
+        margin: 0;
+    }
+    .courses .course-meta {
+        background: #fff;
+        border-top: 1px solid rgba(204, 204, 204, 0.45);
+        overflow: hidden;
+        margin: 15px;
+        text-align: left;
+        padding-top: 15px;
+    }
+    .courses .rattings li{
+        color: #05C46B;
+        display: inline;
+        margin-right: 0;
+
+    }
+    .rattings i{
+        font-size: 12px;
+    }
+    /* Rattings */
+    .courses .rattings li {
+        display: inline;
+        margin-right: 0;
+    }
+    .courses .rattings li.point span {
+        display: inline-block;
+        position: relative;
+    }
+    .courses .rattings li.point span:before {
+        content: "(";
+    }
+    .courses .rattings li.point span::after {
+        content: ")";
+    }
+    /* Course Info */
+    .courses .course-info {
+        margin-top: 4px;
+    }
+    .courses .course-info span {
+        display: inline-block;
+        color: #888;
+        margin-right: 8px;
+        font-weight: 500;
+        -webkit-transition:all 0.3s ease 0s;
+        -moz-transition:all 0.3s ease 0s;
+        transition:all 0.3s ease 0s;
+    }
+    .courses .course-info span:last-child{
+        margin-right:0px;
+    }
+    .courses .course-info span i{
+        margin-right:5px;
+    }
+    /* Slider Meta */
+    .courses .owl-controls {
+        margin-top: 30px;
+    }
+    .courses .owl-controls .owl-nav div {
+        width: 44px;
+        height: 44px;
+        line-height: 44px;
+        font-size: 22px;
+        padding: 0;
+        border-radius: 100%;
+        color: #555;
+        background: #fff;
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        transition: all 0.3s ease 0s;
+        -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.10);
+        margin: 0 10px 0 0;
+        border: 1px solid #ccc;
+    }
+    .courses .owl-controls .owl-nav div:last-child{
+        margin:0;
+    }
+    .courses .course-slider:hover .owl-controls .owl-nav div {
+        opacity: 1;
+        visibility: visible;
+    }
+    .courses .owl-controls .owl-nav div:hover{
+        border-color:transparent;
+        color:#fff;
+    }
+    /* Courses Archive */
+    .courses.archive{
+        padding:60px 0 90px;
+    }
+    .courses.archive .single-course {
+        margin: 30px 0 0;
+    }
+
+    .courses .price {
+        background: #05C46B;
+        color: #fff;
+        padding: 3px 20px;
+        font-weight: 700;
+        position: relative;
+        margin-top: 18px;
+        float: right;
+        border-radius: 50px;
+        right: 0;
+    }
+    .courses .course-head:hover img {
+        -webkit-transform: scale(1.3);
+        -moz-transform: scale(1.3);
+        transform: scale(1.3);
+    }
+    .courses .course-head img {
+        height: 100%;
+        width: 100%;
+    }
+    .courses .course-head:hover .btn {
+        color: #fff;
+        background: #05c46b;
+        transform: scale(1);
+        opacity: 1;
+    }
+    .courses.section .content .single-course{
+        margin-bottom:30px;
+    }
+
+    /*===============================*/
+    .right_side_news_views {
+        margin-left: -20px;
+        margin-bottom: 8px;
+    }
+    .right_side_news_views2{
+        margin-left: -20px;
+    }
+    #news_views_p p{
+        margin-bottom: 0;
+    }
+    #border_bottom{
+        padding: 10px 10px 10px 0;
+        border-bottom: 1px solid #ddd;
+    }
+    a#news_views_fe_img img {
+        overflow: hidden;
+        width: 200px;
+        height: 110px;
+    }
+    .news_slider {
+        margin-bottom: 15px;
+        background: #fff;
+        padding: 6px;
+    }
+    .news_ad_views{
+        border: 1px solid #e0d3d3;
+        margin-bottom: 10px;
+        background: #fff;
+    }
+    .news_ad_views img {
+        border: 2px solid #f4f6fa;
+        width: 100%;
+        padding: 4px!important;
+    }
+    div#releted_article .row.row-deck>div>.block {
+        background: #f4f6fa;
+    }
+    .user_auth_share_social {
+        margin-bottom: 20px;
+    }
+    .user_auth {
+        padding-top: 10px;
+    }
+
+    .author_heading {
+        padding: 5px;
+        border-bottom: 1px solid lightgrey;
+        margin-bottom: 5px;
+    }
+    .long_banner_img{
+        margin:0 auto;
+    }
+    /*================Events CSS=================*!*/
+    #events_banner_image img{
+        width: 100%;
+        height: 460px;
+    }
+    h4.event_register_now{
+        margin-top: 4%;
+    }
+    .events .event-date{
+        background: #05C46B;
+    }
+    .events{
+        background:#F8F8F8;
+    }
+    .event-img, .coming-event {
+        margin-top: 30px;
+    }
+    .coming-event {
+        padding-left: 35px;
+    }
+    .events .single-event {
+        background: #fff;
+        position: relative;
+        margin-left: 0;
+        padding: 30px 20px 30px 60px;
+        margin-bottom: 30px;
+        -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+        -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        transition: all 0.3s ease 0s;
+    }
+    .events .single-event:last-child{
+        margin:0;
+    }
+    .events .event-date {
+        position: absolute;
+        left: -35px;
+        width: 70px;
+        text-align: center;
+        top: 50%;
+        margin-top: -35px;
+        padding: 10px 0;
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        transition: all 0.3s ease 0s;
+    }
+    .events .single-event:hover .event-date {
+        border-radius:100%;
+    }
+    .events .event-date p {
+        line-height: 1;
+        margin-bottom: 0;
+        color: #fff;
+        font-size: 30px;
+        font-weight: 700;
+        -webkit-transition: all 0.3s ease 0s;
+        -moz-transition: all 0.3s ease 0s;
+        transition: all 0.3s ease 0s;
+    }
+    .events .single-event:hover .event-date p{
+        font-size:25px;
+    }
+    .events .event-date p span {
+        display: block;
+        font-size: 14px;
+        font-weight:500;
+    }
+    .events .event-title {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .events .event-title a {
+        font-weight: 700;
+        color: #252525;
+    }
+    .events .entry-date-time {
+        color: #555;
+        margin-top: 5px;
+        display: block;
+    }
+    /* Events Archive */
+    .events.archive{}
+    .events.archive .single-event {
+        padding: 15px;
+        margin-bottom: 30px;
+    }
+    .events.archive .event-image{
+        background-size: contain;
+        width: 100%;
+        position: relative;
+        overflow: hidden;
+        height: 153px;
+    }
+    .events.archive .event-image img{
+        width: 100%;
+        height: 100%;
+    }
+    .events.archive .single-event:hover .event-image img{
+        -webkit-transform:scale(1.2);
+        -moz-transform:scale(1.2);
+        transform:scale(1.2);
+    }
+    .events.archive .event-date {
+        top: 5px;
+        margin: 0;
+        left: 5px;
+    }
+    .events.archive .event-content{
+        margin-top: 20px;
+    }
+    /*============End Events CSS ===================*/
+div#news_art_a_13 a {
+    font-size: 13px;
+}
+    div#featured_video_front {
+        margin-bottom: 10px;
+        /* padding-bottom: 10px; */
+        margin-top: -10px;
+    }
+    .gallery_wise_images {
+        text-align: center;
+        padding: 3px;
+        background: #ecebe6;
+    }
+    .gallery_wise_images h3 {
+        color: darkgreen;
+    }
+    /*Events Countdown*/
+    h2.events_date_hrs_sec_mi{
+        font-size: 46px;
+        font-weight: bold;
+        padding-top: 25px;
+        color: #fff;
+    }
+    h3#events_date_btn {
+        color: #fff;
+        font-weight: bold;
+    }
+    h4#events_venue {
+        color: #fff;
+        font-weight: bold;
+        line-height: 0;
+    }
+    #clockdiv div > #days {
+        padding: 0 10px;
+        border-radius: 3px;
+        background: #ec422c;
+        display: inline-block;
+    }
+    #clockdiv div > #hours {
+        padding: 0 10px;
+        border-radius: 3px;
+        background: #08a2f1;
+        display: inline-block;
+    }
+    #clockdiv div > #minutes {
+        padding: 0 10px;
+        border-radius: 3px;
+        background: #82ba45;
+        display: inline-block;
+    }
+    #clockdiv div > #seconds {
+        padding: 0 10px;
+        border-radius: 3px;
+        background: #fcb50a;
+        display: inline-block;
+    }
+    #clockdiv{
+        font-family: sans-serif;
+        color: #fff;
+        display: inline-block;
+        font-weight: 100;
+        text-align: center;
+        font-size: 30px;
+    }
+    #clockdiv > div{
+        padding: 10px;
+        border-radius: 3px;
+        background: #007075;
+        display: inline-block;
+    }
+    .smalltext{
+        padding-top: 5px;
+        font-size: 16px;
+    }
+    #slider_events_h2h4 h3. h4{
+        color: #fff;
+    }
+    .search_events_location {
+        background: #007075;
+    }
+    .categories_location a {
+        font-weight: bold;
+        border-radius: 20px;
+        padding: 2px 10px;
+        background: #007075;
+        color: #fff;
+        /* margin: 10px; */
+    }
+    .categories_location {
+        text-align: center;
+        padding: 30px 0 40px 2px;
+    }
+    ul#categories_title {
+        padding-left: 35%;
+    }
+    h4#blog_title_ad_ne {
+        padding-top: 10px;
+        font-size: 16px;
+    }
+    div#blog_sub_title a {
+        font-size: 15px;
+        font-weight: 600;
+    }
+    /*Events Countdown end*/
+    .box_image{
+        width: 50%; margin: 0 auto; text-align: center; height: 400px; overflow: hidden;
+    }
+    .box_image_responsive{
+        width: 100%;
+        height: 150px;
+        overflow: hidden;
+        background-color: #007075;
+    }
